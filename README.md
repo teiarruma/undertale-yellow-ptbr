@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Tradução PT-BR de Undertale Yellow DEMO</h1>
+  <h1>Tradução PT-BR de Undertale Yellow Demo</h1>
   Uma tradução feita pela <a href="https://github.com/TEIARRUMA">TEIARRUMA</a> da <a href="https://gamejolt.com/games/UndertaleYellow/136925">demo de Undertale Yellow</a>, jogo feito por <a href="https://gamejolt.com/@TeamUTY">Team Undertale Yellow</a>.
 </div>
 
