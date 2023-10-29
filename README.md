@@ -11,6 +11,7 @@
 **Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!**
 
 # Créditos
-- **marcel099** - Tradução / Revisão / Coordenação.
-- **Detoria** - Tradução / Revisão / Programação / Gráficos / Coordenação.
-- **Kalleu11** - Tradução / Revisão / 🐐.
+- **marcel099** - Tradução / Revisão / Coordenação
+- **Detoria** - Tradução / Revisão / Programação / Gráficos / Coordenação
+- **Kalleu11** - Tradução / Revisão / 🐐
+- **Nexon** - Tradução
