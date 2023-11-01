@@ -15,3 +15,4 @@
 - **Detoria** - Tradução / Revisão / Programação / Gráficos / Coordenação
 - **Kalleu11** - Tradução / Revisão / 🐐
 - **Nexon** - Tradução
+- **refri** - Gráficos
