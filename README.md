@@ -5,10 +5,10 @@
 
 # Links
 ### 🖥️ [Baixar Tradução](https://github.com/teiarruma/undertale-yellow-ptbr/releases/latest)
-**Ao clicar no link, você terá um ZIP do jogo pronto para uso logo ao ser extraído com a versão mais recente da tradução!**
+O link te redirecionará à nossa publicação mais recente da tradução da demo. Lá você encontrará um arquivo ZIP que contém o jogo e a tradução. **É só baixar, extrair e começar a jogar!**
 
 ### [📞 Entrar no nosso Discord](https://discord.gg/7DtZ7E4yYG)
-**Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!**
+Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!
 
 # Créditos
 - **marcel099** - Tradução / Revisão / Coordenação
