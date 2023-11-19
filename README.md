@@ -11,7 +11,11 @@ O link te redirecionará à nossa publicação mais recente da tradução da dem
 Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!
 
 ## Capturas de Tela
-
+![print4](https://github.com/teiarruma/undertale-yellow-ptbr/assets/44783518/a8f4593a-4b51-4668-92cc-4c144cadb8d3)
+![print5](https://github.com/teiarruma/undertale-yellow-ptbr/assets/44783518/50b4fa59-0c38-480a-80bd-8b0c533efc9c)
+![print2](https://github.com/teiarruma/undertale-yellow-ptbr/assets/44783518/aaecd5f5-cc19-452d-8510-b6623da5c8db)
+![print3](https://github.com/teiarruma/undertale-yellow-ptbr/assets/44783518/aad28324-778c-4e21-a3c5-d0e19a944b8a)
+![print1](https://github.com/teiarruma/undertale-yellow-ptbr/assets/44783518/b1bfca46-0876-4827-aea9-c879d973efbe)
 
 ## Modo Debug
 Durante o desenvolvimento da tradução dessa demo de Undertale Yellow, a TEIARRUMA desenvolveu um Modo Debug que <u>só está presente nessa versão traduzida do jogo</u>. Caso tenha interesse em habilitar essa função e entender como ela funciona, siga as instruções abaixo:
