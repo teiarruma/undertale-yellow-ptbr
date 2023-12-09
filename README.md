@@ -10,6 +10,14 @@ O link te redirecionará à nossa publicação mais recente da tradução da dem
 ### [📞 Entrar no nosso Discord](https://discord.gg/7DtZ7E4yYG)
 Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!
 
+## Como contribuir
+
+Estamos com vagas abertas para interessados em trabalhar conosco nessa tradução!
+
+A permissão de entrada exige conversa para avaliar as habilidades da pessoa e, assim, descobrir quais tarefas ela poderia desempenhar. Com isso, decidir se será aceita no projeto de tradução.
+
+Basta entrar no [nosso servidor no Discord](https://discord.gg/7DtZ7E4yYG) e demonstrar seu interesse no canal <i>candidate-se</i> para podermos conversar.
+
 ## Capturas de Tela
 ![print4](https://github.com/teiarruma/undertale-yellow-ptbr/assets/44783518/a8f4593a-4b51-4668-92cc-4c144cadb8d3)
 ![print5](https://github.com/teiarruma/undertale-yellow-ptbr/assets/44783518/50b4fa59-0c38-480a-80bd-8b0c533efc9c)
