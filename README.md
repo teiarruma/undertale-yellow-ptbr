@@ -7,14 +7,18 @@
 ### 🖥️ [Baixar Tradução](https://github.com/teiarruma/undertale-yellow-ptbr/releases/latest)
 O link te redirecionará à nossa publicação mais recente da tradução da demo. Lá você encontrará um arquivo ZIP que contém o jogo e a tradução. **É só baixar, extrair e começar a jogar!**
 
+Não entendeu bem como instalar? Experimente seguir [nosso tutorial](https://youtu.be/3OjrcnpaCAw)!
+
 ### [📞 Entrar no nosso Discord](https://discord.gg/7DtZ7E4yYG)
 Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!
 
 ## Jogo completo? Como contribuir?
 
-Estamos considerando a possibilidade de tradução do jogo completo, o qual foi lançado dia 09/12/2023. É algo que está em negociação.
+Estamos com vagas abertas para interessados em trabalhar conosco na tradução do jogo completo!
 
-Se a for tomada a decisão de a Teiarruma traduzir para a Português Brasileiro, iremos liberar a entrada de novas pessoas na equipe pra trabalhar na tradução mediante entrevista com interessados em entrar.
+A permissão de entrada exige conversa para avaliar as habilidades da pessoa e, assim, descobrir quais tarefas ela poderia desempenhar. Com isso, decidir se será aceita no projeto de tradução.
+
+Basta entrar no [nosso servidor no Discord](https://discord.gg/7DtZ7E4yYG) e demonstrar seu interesse no canal <i>candidate-se</i> para podermos conversar.
 
 ## Capturas de Tela
 ![print4](https://github.com/teiarruma/undertale-yellow-ptbr/assets/44783518/a8f4593a-4b51-4668-92cc-4c144cadb8d3)
