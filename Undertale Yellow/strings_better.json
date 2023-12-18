@@ -5344,7 +5344,7 @@
         "gml_Script_scr_enemy_attack_rorrim_sparkle",
         "scr_enemy_timer_attacks_rorrim_solo",
         "scr_enemy_attack_rorrim_mirror",
-        "* Você dá um passo em direção#  a Dunebud para intimidar.#  Dunebud recuam um pouco.",
+        "* Você dá um passo em direção#  a Dunebud para intimidar.#  Dunebud recua um pouco.",
         "* Você faz uma expressão#  zangada para Dunebud.#* Que se assusta.",
         "* Você ignora Dunebud,#* que não entende.",
         "scr_dialogue_battle_action_selected_action_3_dunebud_b",
