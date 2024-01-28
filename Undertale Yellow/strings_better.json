@@ -19883,10 +19883,10 @@
         "* Deve combinar cartas de#  mesmo rosto, mas apenas se#  estiverem se encostando.",
         "* Quando duas cartas são#  combinadas, elas são#  removidas da grade.",
         "* Outras duas cartas do#  baralho de 16 cartas separado#  irão substituí-las.",
-        "* Seu objetivo é esvaziar a#  mesa combinando todas as#  cartas.",
+        "* Seu objetivo é esvaziar a mesa#  combinando todas as cartas.",
         "* Se vencer em menos de 45#  segundos, ganhará  25 ouros.",
         "* E em menos de um minuto, a#  recompensa será de 15 ouros.",
-        "Qualquer momento após, você#  estará no ponto de equilíbrio#  financeiro com 3 ouros"
+        "* Qualquer momento após, você#  estará no ponto de equilíbrio#  financeiro com 3 ouros."
         "* Se o baralho estiver vazio#  e não houver combinações#  possíveis restantes...",
         "* Você perderá sem recompensa.",
         "* Entendeu?",
@@ -19897,7 +19897,7 @@
         "* Muito bem.",
         "* Uma admirável vitória.",
         "* Gostaria de jogar de novo?",
-        "* Receio que você não tenha#   dinheiro suficiente.",
+        "* Receio que você não tenha#  fundos suficientes.",
         "martlet_second_cutscene",
         "* Sabia que podia contar#  com você!",
         "* Então, e quanto a eu#  sair daqui...",
