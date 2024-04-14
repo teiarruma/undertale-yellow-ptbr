@@ -36,12 +36,12 @@ Agora após o lançamento da tradução do jogo todo, só abriremos vagas na equ
 ## Capturas de Tela
 
 <div align="left">
- <img alt="Ponte Quebrada" title="Ponte Quebrada" style="height: 18rem" src="./assets/dalv_ponte_quebrada.png" />
- <img alt="Castelo de Neve" title="Castelo de Neve" style="height: 18rem" src="./assets/castelo_neve.png" />
- <img alt="Não vou dormir" title="Não vou dormir" style="height: 18rem" src="./assets/travinsonia_pais.png" />
- <img alt="Bufadas" title="Bufadas" style="height: 18rem" src="./assets/bovidro_bufadas.png" />
- <img alt="Bem-Vindo" title="Bem-Vindo" style="height: 18rem" src="./assets/entrada_oasis.png" />
- <img alt="Loja" title="Loja" style="height: 18rem" src="./assets/blackjack_loja.png" />
+ <img alt="Ponte Quebrada" title="Ponte Quebrada" style="width: 18rem" src="./assets/dalv_ponte_quebrada.png" />
+ <img alt="Castelo de Neve" title="Castelo de Neve" style="width: 18rem" src="./assets/castelo_neve.png" />
+ <img alt="Não vou dormir" title="Não vou dormir" style="width: 18rem" src="./assets/travinsonia_pais.png" />
+ <img alt="Bufadas" title="Bufadas" style="width: 18rem" src="./assets/bovidro_bufadas.png" />
+ <img alt="Bem-Vindo" title="Bem-Vindo" style="width: 18rem" src="./assets/entrada_oasis.png" />
+ <img alt="Loja" title="Loja" style="width: 18rem" src="./assets/blackjack_loja.png" />
 </div>
 
 ## Créditos (Completo)
