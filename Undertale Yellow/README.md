@@ -1,3 +1,3 @@
 ### Undertale Yellow PT-BR 
 
-Tradução do jogo completo em andamento! Ainda não temos uma data de lançamento. Pedimos sua paciência.
+Baixe a tradução do jogo completo na [página de releases](https://github.com/teiarruma/undertale-yellow-ptbr/releases). A tradução já vem com o jogo.
