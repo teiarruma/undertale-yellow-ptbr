@@ -36,12 +36,12 @@ Agora após o lançamento da tradução do jogo todo, só abriremos vagas na equ
 ## Capturas de Tela
 
 <div align="left">
- <img alt="Ponte Quebrada" title="Ponte Quebrada" style="height: 18rem" src="./assets/dalv_ponte_quebrada.png" />
- <img alt="Castelo de Neve" title="Castelo de Neve" style="height: 18rem" src="./assets/castelo_neve.png" />
- <img alt="Não vou dormir" title="Não vou dormir" style="height: 18rem" src="./assets/travinsonia_pais.png" />
- <img alt="Bufadas" title="Bufadas" style="height: 18rem" src="./assets/bovidro_bufadas.png" />
- <img alt="Bem-Vindo" title="Bem-Vindo" style="height: 18rem" src="./assets/entrada_oasis.png" />
- <img alt="Loja" title="Loja" style="height: 18rem" src="./assets/blackjack_loja.png" />
+ <img alt="Ponte Quebrada" title="Ponte Quebrada" style="width: 24rem" src="./assets/dalv_ponte_quebrada.png" />
+ <img alt="Castelo de Neve" title="Castelo de Neve" style="width: 24rem" src="./assets/castelo_neve.png" />
+ <img alt="Não vou dormir" title="Não vou dormir" style="width: 24rem" src="./assets/travinsonia_pais.png" />
+ <img alt="Bufadas" title="Bufadas" style="width: 24rem" src="./assets/bovidro_bufadas.png" />
+ <img alt="Bem-Vindo" title="Bem-Vindo" style="width: 24rem" src="./assets/entrada_oasis.png" />
+ <img alt="Loja" title="Loja" style="width: 24rem" src="./assets/blackjack_loja.png" />
 </div>
 
 ## Créditos (Completo)
@@ -69,18 +69,3 @@ Agora após o lançamento da tradução do jogo todo, só abriremos vagas na equ
 - **Kalleu11** - Tradução / Revisão / 🐐
 - **Nexon** - Tradução
 - **refri** - Sprites
-
-## Modo Debug (somente na demo)
-Durante o desenvolvimento da tradução dessa demo de Undertale Yellow, a TEIARRUMA desenvolveu um Modo Debug que <u>só está presente nessa versão traduzida do jogo</u>. Caso tenha interesse em habilitar essa função e entender como ela funciona, siga as instruções abaixo:
-
-* Abra o data.win do jogo no [Undertale Mod Tool](https://github.com/krzys-h/UndertaleModTool), e procure por **gml_Object_obj_controller_Create_0** na categoria *Code*.
-* Ache a variável **global.debug** e altere o valor para **true**.
-  * Para desligar, você deve alterar o valor para **false** antes de salvar.
-* Salve o data.win e o Modo Debug estará ativado!
-
-### Teclas do Modo Debug:
-- `F` dobra a velocidade do jogo.
-- `T` salva o jogo em qualquer lugar.
-- `L` carrega o salvamento mais recente em qualquer lugar. **CUIDADO! Pode quebrar o seu jogo!**
-- `G` desliga batalhas randômicas pelo mapa.
-- `C` pula diálogos automáticamente, igual no Deltarune.
